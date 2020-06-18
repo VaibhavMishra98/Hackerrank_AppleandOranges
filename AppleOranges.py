@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-# Complete the countApplesAndOranges function below.
+# Function to count Apples And Oranges 
 def countApplesAndOranges(s, t, a, b, m, n, apples, oranges):
     count_apples=0
     count_oranges=0
